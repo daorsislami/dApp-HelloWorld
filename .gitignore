@@ -1,0 +1,90 @@
+
+# Node.js and npm
+node_modules/
+npm-debug.log
+npm-debug.log.*
+package-lock.json
+
+
+# Env file
+.env
+.env.development
+.env.production
+
+# Build artifacts
+/build
+/dist
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+bower_components
+
+# IDE and OS specific files
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.ncb
+*.orig
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Yarn
+.yarn/
+.yarn-integrity
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/cache/
+.yarn/releases/
+.yarn/plugins/
+.pnp.*
+.yarnrc.yml
+
+# Jest
+coverage/
+
+# Prettier
+.prettierrc
+.prettierignore
+
+# ESLint
+.eslintcache
+
+# Miscellaneous
+/src/index.js.map
+/src/index.min.js.map
+/src/react-dom.production.min.js.map
+/src/react.production.min.js.map
+
+# Storybook
+/storybook-static/
+
+# React Hot Loader
+.rhl/
+
+# React DevTools
+.rdt/
+
+# React Native
+# If you're working on a React Native project, consider adding these:
+# android/
+# ios/
