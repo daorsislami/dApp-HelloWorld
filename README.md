@@ -1,7 +1,7 @@
 # 🗃 Hello World Smart Contract with React 
 
-This project contains the starter files for the tutorial from Alchemy which is creating a Hello World smart contract which we 
-use to write to the smart contract deployed to Holesky testnet, here we read and write data to blockchain and also interact with the smart contract via React frontend. Here I integrated other web3 tools in order to interact with the smart contract using Metamask and Web3 tools.
+This project is a simple Hello World smart contract an introduction for me starting the web3.0 journey, here we 
+use to write to the smart contract deployed to Holesky testnet, read & write data to blockchain and also interact with the smart contract via React frontend. Here I integrated other web3 tools in order to interact with the smart contract using Metamask and Web3 tools.
 
 
 # If you cannot get it to run please install this package: npm install -g npm-check-updates
